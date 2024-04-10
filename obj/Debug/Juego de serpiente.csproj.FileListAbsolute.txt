@@ -1,0 +1,7 @@
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\bin\Debug\Juego de serpiente.exe.config
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\bin\Debug\Juego de serpiente.exe
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\bin\Debug\Juego de serpiente.pdb
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\obj\Debug\Juego de serpiente.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\obj\Debug\Juego de serpiente.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\obj\Debug\Juego de serpiente.exe
+C:\Users\Santiago\source\repos\Juego de serpiente\Juego de serpiente\obj\Debug\Juego de serpiente.pdb
